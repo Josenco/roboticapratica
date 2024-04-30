@@ -1,3 +1,5 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/Josenco/roboticapratica)
+![GitHub License](https://img.shields.io/github/license/Josenco/roboticapratica)
 # roboticapratica
 ## Curso - Projeto roboticapratica
 <title>Robótica Prática</title>
